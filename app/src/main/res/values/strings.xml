@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Belajar Membaca</string>
+    <string name="abjad">Bahasa Indonesia memilki 26 huruf yang msing-masing memiliki jenis huruf besar dan kecil. Pada mulanya fonem f,q,v,x,z tidak dikenal dalam bahasa Indonesia karena merupakan fonem asing. Tapi kemudian diserap ke dalam bahasa Indonesia.</string>
+    <string name="vokal">Huruf Vokal terdiri dari 5 huruf, yaitu:
+			a, i, u, e, o.</string>
+    <string name="konsonan">Huruf konsonan ada 21, yaitu:
+	b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, dan z.</string>
+    <string name="diftong">Huruf diftong adalah gabungan dua buah huruf vokal yang menghasilkan bunyi rangkap. Diantaranya:
+	ai, au dan oi.</string>
+</resources>
